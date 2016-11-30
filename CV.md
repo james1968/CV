@@ -21,14 +21,11 @@ I have had a varied and successful career to date, working in many different cap
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Team Boom](https://github.com/alexanderwjrussell/boom_training_webapp.git) | A calendar based web app for managing your workouts. | 10 days | Ruby, Ruby on Rails, JQuery, PostgreSQL| Capybara, RSpec
-[SpyAPI](https://github.com/spyAPI/spyAPI) | A tool for mocking API requests, to be used during the build and testing of new projects. Try it out [here](https://spy-api.herokuapp.com). | 3 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
-
 
 ## Education
 
 #### Makers Academy (Sept 2016 to Dec 2016)
 
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
