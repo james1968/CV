@@ -34,14 +34,11 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 #### Your University / College (start_date to end_date)
 
-- BA(Hons) Economics - University of Leicester - 2:1
-- Open University - Analysis and design of enterprise systems: an object-oriented approach
-- Open University - Relational database systems
-- Project Management - PRINCE2
+- BA(Hons) Economics - University of Leicester - 2:1 (1989 - 1992)
+- Open University - Analysis and design of enterprise systems: an object-oriented approach (2005)
+- Open University - Relational database systems (2005)
+- Project Management - PRINCE2 (2006)
 - Project Management - experience running Agile projects
-
-
-#### Any other qualifications
 
 ## Experience
 Please note this section covers a summary of my roles.  Full employment details upon request.
@@ -73,3 +70,8 @@ Working in Capital Markets IT Advisory group.
 **Deloitte** (Sept 2006 to Dec 2008)   
 *Senior Manager*
 Working in Global Banking Operation Excellence Business line focused on trading systems implementations.
+
+##Interests
+Running - I am a keen runner, regularly taking part in races from 10k up to marathon, as well as numerous triathlons.
+Cricket - having previously played minor county cricket I now run my son's age group at Beaconsfield Cricket Club and am a qualified level 2 cricket coach.
+Psychology - I have a keen interest in psychology, the psychology of personalities and mental health.     
