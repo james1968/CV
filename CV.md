@@ -1,32 +1,33 @@
 ## James Baker
 
-Over the last twenty years I have worked as an analyst for a software firm delivering derivatives trading system's to investment banks, as a big 4 management consultant advising on capital markets systems transformations and more recently as an IT Project Management implementing large scale IT change programmes for top global investment banks. This year I felt it was time for a career change and to pursue my long term ambition of becoming a software developer.
+Over the last twenty years I have worked as an analyst for a software firm delivering derivatives trading system's to investment banks, as a big 4 management consultant advising on capital markets systems transformations and more recently as an IT Project Management implementing large scale IT change programmes for global investment banks. This year I felt it was time for a career change and to pursue my long term ambition of becoming a software developer.  My interest in software development started whilst working as an analyst for a software firm and I am excited that I have now, some 15 years later, taken the plunge with Makers Academy to become a professional software developer.
 
-I'm looking for Full Stack junior developer roles where I can start to use my skills gained whilst at Maker's Academy whilst also being encouraged to develop and learn new skills and contribute to the production of great software.
+I'm looking for Full Stack junior developer roles where I can start to use my skills gained at Maker's Academy whilst also being encouraged to develop and learn new skills and contribute to the production of great software.
 
 ## Skills
 
 #### Analysis
 
-Having worked as a business analyst within a software firm, developing systems to support financial derivatives trading, I have developed excellent analytical skills. Within a development environment this has enabled me to break down requirements into manageable user stories in order to drive development of projects I have worked on at Maker's Academy.
+Having worked as a business analyst within a software firm, I have developed excellent technical analytical skills, which have enabled me to break down features and requirements into manageable user stories to be used to drive the development of projects.  These skills have been invaluable both in my career to date as well as during my time with Makers Academy and I believe, will help me to become a highly effective software developer.
 
-I am an excellent problem solver and my skills as an analyst allow me to think clearly when addressing problems and come up with sensible hypotheses to help work out solutions.  I have been challenged at Maker's Academy on numerous occasions with development problems and in the main have solved these using my analytical skills.
+I am an excellent problem solver with an analytical and logical approach to problems.  This enables me to come up with sensible hypotheses that allow me to work through potential solutions.  I have been challenged at Maker's Academy on numerous occasions with development problems and in the main have been able to solve them by using these skills.
 
 #### Adaptability
 
-I have had a varied and successful career to date, working in many different capacities where I have been required to pick up new concepts quickly. In some instances I have had to undertake numerous tasks as part of my role from detailed business analysis right through to Programme Management and senior stakeholder engagement.  This adaptability has been invaluable whilst learning to become a developer and I believe will continue to help me grasp new concepts and technologies.
+I have had a varied and successful career to date, working in many different capacities where I have been required to pick up new concepts quickly. In some instances I have had to undertake numerous tasks as part of my role from detailed business analysis right through to Programme Management and senior stakeholder engagement.  This adaptability has been invaluable whilst learning to become a developer and I believe will continue to help me become effective using new concepts and technologies in relatively short timeframes.  
 
 ## Projects
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Team Boom](https://github.com/alexanderwjrussell/boom_training_webapp.git) | A calendar based web app for managing your workouts. | 10 days | Ruby, Ruby on Rails, JQuery, PostgreSQL| Capybara, RSpec
+[Team Boom](https://github.com/james1968/boom_training_webapp.git) | A calendar based web app for managing your workouts. | 10 days | Ruby, Ruby on Rails, JQuery, PostgreSQL| Capybara, RSpec
+[I'm In!](https://github.com/james1968/project-snowflake.git) | An interactive web app allowing people to post and resource community projects and to allow people to volunteer for those projects. | 10 days | Javascript, Meteor JS, MongoDb, Mocha, Chai.
 
 ## Education
 
 #### Makers Academy (Sept 2016 to Dec 2016)
 
-- Independent learner and problem-solver
+- Member of the remote 2016 September cohort.
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript,
@@ -38,7 +39,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 - Open University - Analysis and design of enterprise systems: an object-oriented approach (2005)
 - Open University - Relational database systems (2005)
 - Project Management - PRINCE2 (2006)
-- Project Management - experience running Agile projects
+- Project Management - experience running both Agile and waterfall projects.  I have managed sizeable projects with team size's of 20 people and been  responsible for and budgets up to £10m.
 
 ## Experience
 Please note this section covers a summary of my roles.  Full employment details upon request.
@@ -71,7 +72,19 @@ Working in Capital Markets IT Advisory group.
 *Senior Manager*
 Working in Global Banking Operation Excellence Business line focused on trading systems implementations.
 
+**Deloitte** (Sept 2006 to Dec 2008)   
+*Senior Manager*
+Working in Global Banking Operation Excellence Business line focused on trading systems implementations.
+
+**Lloyds TSB - Financial Markets** (Aug 2004 to Aug 2006)   
+*IT Business Analyst*
+Working in Financial Markets area of the bank, developing new features for their derivatives trading application.
+
+**Summit Systems International** (April 1999 to Aug 2004)   
+*IT Business Analyst*
+Working as a business analyst within a software development company providing derivative trading solutions to many of the top UK investment banks.  I was involved in product development and implementations at both green field sites as well as new supporting delivery of new features to existing clients.  I became proficient in SQL to help analyse data issues as well becoming familiar with the code base for areas of the system.
+
 ##Interests
 Running - I am a keen runner, regularly taking part in races from 10k up to marathon, as well as numerous triathlons.
 Cricket - having previously played minor county cricket I now run my son's age group at Beaconsfield Cricket Club and am a qualified level 2 cricket coach.
-Psychology - I have a keen interest in psychology, the psychology of personalities and mental health.     
+Psychology - I have a keen interest in psychology, the psychology of personalities and mental health.  I also enjoy intellectual challenges and am a member of Mensa.     
