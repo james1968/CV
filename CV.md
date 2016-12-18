@@ -39,7 +39,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 - Open University - Analysis and design of enterprise systems: an object-oriented approach (2005)
 - Open University - Relational database systems (2005)
 - Project Management - PRINCE2 (2006)
-- Project Management - experience running both Agile and waterfall projects.  I have managed sizeable projects with team size's of 20 people and been  responsible for and budgets up to £10m.
+- Project Management - experience running both Agile and waterfall projects.  I have managed sizeable projects with team's of up to 20 people and been responsible for budgets up to £10m.
 
 ## Experience
 
