@@ -52,13 +52,13 @@ EBA Regulatory Testing Standards - I was responsible for the EBA RTS 15-day test
 TSB Divestment Programme - I was responsible for the Customer Project as part of the TSB Divestment Programme at LBG. The purpose of the project was to separate and transition the Customer Data applications onto new target infrastructure for Verde (TSB).
 
 **Barclays Investment Bank** (Apr 2014 to Aug 2014)   
-*IT Project Manager - HSBC Regulatory Change Programme*
+*IT Project Manager*
 I was one of the project managers working within Barclay's Independent Valuation Control Programme, rolling out updates for the equity derivatives asset class.  
 
-**HSBC** (Jan 2013 to Nov 2013)   
-*IT Project Manager - HSBC Regulatory Change Programme*
-I was the project manager responsible for the delivery of HSBC's trade reporting capabilities for FX options.  
-
+**HSBC Regulatory Change Programme** (Jan 2013 to Nov 2013)   
+*IT Project Manager*
+I was the project manager responsible for the delivery of HSBC's trade reporting capabilities for FX options. 
+ 
 **Lloyds Bank Group** (Oct 2010 to Dec 2012)   
 *IT Project Manager*
 TSB Divestment Programme - I was responsible for managing creation of the Treasury IT system solution for the new TSB divestment entity.
