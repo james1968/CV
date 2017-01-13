@@ -21,7 +21,7 @@ I have had a varied and successful career to date, working in many different cap
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Team Boom](https://github.com/james1968/boom_training_webapp.git) | A calendar based web app for managing your workouts. | 5 days | Ruby, Ruby on Rails, JQuery, PostgreSQL| Capybara, RSpec
-[I'm In!](https://github.com/james1968/project-snowflake.git) | An interactive web app allowing people to post and resource community projects and to allow people to volunteer for those projects. | 10 days | Javascript, Meteor JS, MongoDb, Mocha, Chai.
+[I'm In!](https://github.com/james1968/project-snowflake.git) | An interactive web app allowing people to post and resource community projects and to allow people to volunteer for those projects. | 10 days | Javascript, Meteor JS, MongoDb | Mocha, Chai
 
 ## Education
 
