@@ -57,8 +57,8 @@ I was one of the project managers working within Barclay's Independent Valuation
 
 **HSBC Regulatory Change Programme** (Jan 2013 to Nov 2013)   
 *IT Project Manager*
-I was the project manager responsible for the delivery of HSBC's trade reporting capabilities for FX options. 
- 
+I was the project manager responsible for the delivery of HSBC's trade reporting capabilities for FX options.
+
 **Lloyds Bank Group** (Oct 2010 to Dec 2012)   
 *IT Project Manager*
 TSB Divestment Programme - I was responsible for managing creation of the Treasury IT system solution for the new TSB divestment entity.
@@ -96,4 +96,4 @@ Working within the payments and back office areas.
 ##Interests
 Running - I am a keen runner, regularly taking part in races from 10k up to marathon, as well as numerous triathlons.
 Cricket - having previously played minor county cricket I now run my son's age group at Beaconsfield Cricket Club and am a qualified level 2 cricket coach.
-Psychology - I have a keen interest in psychology, the psychology of personalities and mental health.  I also enjoy intellectual challenges and am a member of Mensa.     
+Psychology - I have a keen interest in psychology, the psychology of personalities and mental health.
