@@ -45,7 +45,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 **Keytree** (Jan 2017 to current)    
 *Agile Project Manager*
-Whilst at Keytree I have been working as an Agile Project Manager responsible for the delivery of two mobile products.
+I have been working as an Agile Project Manager responsible for the delivery of two mobile products.
 
 I have managed the development of a new HR application to allow users to provide instant feedback to fellow team members and peers from across the group.  I was involved during the initial scoping of the project and have since been responsible for all phases from inception through to testing and implementation.  The application was developed using SAP SCP, React and Javascript.
 
