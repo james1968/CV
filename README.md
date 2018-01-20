@@ -43,6 +43,16 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 ## Experience
 
+**Keytree** (Sept 2015 to Sept 2016)    
+*Agile Project Manager*
+Whilst at Keytree I have been working as an Agile Project Manager responsible for the delivery of two mobile products.
+
+I have managed the development of a new HR application to allow users to provide instant feedback to fellow team members and peers from across the group.  I was involved during the initial scoping of the project and have since been responsible for all phases from inception through to testing and implementation.  The application was developed using SAP SCP, React and Javascript.
+
+I have also managed the development of a delivery tracking mobile app for a major water utility.  This app was built on Android and allows routes to be scheduled for drivers to follow and confirm deliveries in real time back to head office.  The app also allows management of issues during deliveries to allow more time to be allocated to the drivers to complete their routes.
+
+Both projects used agile methodologies as the project management approach.  I have been responsible for sprint planning, retros and daily stand ups with the development and test teams from incpetion trhough to go live.
+
 **Deutsche Bank** (Sept 2015 to Sept 2016)    
 *Project Manager Market Risk IT*
 EBA Regulatory Testing Standards - I was responsible for the EBA RTS 15-day testing project for Deutsche Bank’s Market Risk IT function.  The 15-day testing project aimed to reduce impact testing of new market risk methodologies to acceptable timescales to ensure changes can be released into production in a timely fashion.    
