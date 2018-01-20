@@ -1,6 +1,6 @@
 ## James Baker
 
-Over the last twenty years I have worked as an analyst for a software firm delivering derivatives trading system's to investment banks, as a big 4 management consultant advising on capital markets systems transformations and more recently as an IT project manager implementing large scale IT change programmes for global investment banks. This year I felt it was time for a career change and to pursue my long term ambition of becoming a software developer.  My interest in software development started whilst working as an analyst for a software firm and I am excited that I have now, some 15 years later, taken the plunge with Makers Academy to become a professional software developer.
+Over the last twenty years I have worked as an analyst for a software firm delivering derivatives trading system's to investment banks, as a big 4 management consultant advising on capital markets systems transformations, as an IT project manager implementing large scale IT change programmes for global investment banks and currently as an agile project manager delivering mobile and web apps to large corporates. I completed Makers Academy at the end of 2016 and have been coding in my spare time ever since, learning both JavaScript and Python, whilst working for a small technical consultancy.  I have now decided that the time is right for me to pursue my long term ambition of becoming a software developer.  My interest in software development started whilst working as an analyst for a software firm and I am excited that I have now, some 15 years later, taken the plunge with Makers Academy to become a professional software developer.
 
 I'm looking for Full Stack junior developer roles where I can start to use my skills gained at Maker's Academy whilst also being encouraged to develop and learn new skills and contribute to the production of great software.
 
@@ -43,7 +43,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 ## Experience
 
-**Keytree** (Sept 2015 to Sept 2016)    
+**Keytree** (Jan 2017 to current)    
 *Agile Project Manager*
 Whilst at Keytree I have been working as an Agile Project Manager responsible for the delivery of two mobile products.
 
